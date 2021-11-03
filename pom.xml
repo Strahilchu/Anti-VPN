@@ -25,7 +25,7 @@
         <mockbukkit.version>0.31.0</mockbukkit.version>
 
         <configurate.version>4.0.0</configurate.version>
-        <ebean.version>12.7.2</ebean.version>
+        <ebean.version>12.12.1</ebean.version>
         <hikari.version>4.0.3</hikari.version>
         <flexjson.version>3.3</flexjson.version>
         <kyori-event.version>3.0.0</kyori-event.version>
