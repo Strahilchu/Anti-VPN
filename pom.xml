@@ -29,7 +29,7 @@
         <hikari.version>4.0.3</hikari.version>
         <flexjson.version>3.3</flexjson.version>
         <kyori-event.version>3.0.0</kyori-event.version>
-        <jedis.version>3.5.1</jedis.version>
+        <jedis.version>3.7.0</jedis.version>
         <rabbitmq.version>5.11.0</rabbitmq.version>
         <nats.version>2.8.0</nats.version>
         <zstd.version>1.4.9-1</zstd.version>
