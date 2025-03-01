@@ -24,7 +24,7 @@
         <bstats.version>2.2.1</bstats.version>
         <mockbukkit.version>0.31.0</mockbukkit.version>
 
-        <configurate.version>4.0.0</configurate.version>
+        <configurate.version>4.2.0</configurate.version>
         <ebean.version>12.7.2</ebean.version>
         <hikari.version>4.0.3</hikari.version>
         <flexjson.version>3.3</flexjson.version>
